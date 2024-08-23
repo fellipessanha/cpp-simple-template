@@ -7,6 +7,10 @@ a simple template for c++, with CMake already working out of the box. just don't
 2. [clang-format](https://apt.llvm.org/)
 3. [CMake](https://github.com/Kitware/CMake/releases)
 4. [VSCode](https://code.visualstudio.com/Download)
+5. VSCode extensions(also in [.vscode/extensions.json](.vscode/extensions.json)):
+   1. [clang-format](https://marketplace.visualstudio.com/items?itemName=xaver.clang-format)
+   2. [clangd](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.vscode-clangd)
+   3. (optional) [CMake Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools) 
 
 ## how to use
 
